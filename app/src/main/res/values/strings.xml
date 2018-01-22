@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">IPCalculator</string>
+    <string name="space" />
+    <string name="et_ip_hint">198.168.1.1</string>
+    <string name="slash">/</string>
+    <string name="et_mask_hint">24</string>
+    <string name="address_colon">Address:</string>
+    <string name="address_example">198.168.1.1</string>
+    <string name="netmask_colon">Netmask:</string>
+    <string name="network_colon">Network:</string>
+    <string name="broadcast_colon">Broadcast:</string>
+    <string name="hostmin_colon">HostMin:</string>
+    <string name="hostmax_colon">HostMax:</string>
+    <string name="hosts_colon">Hosts:</string>
+    <string name="netmask_example">255.255.255.0</string>
+    <string name="network_example">198.168.1.0</string>
+    <string name="broadcast_example">198.168.1.255</string>
+    <string name="hostmin_example">198.168.1.1</string>
+    <string name="hostmax_example">198.168.1.254</string>
+    <string name="hosts_example">254</string>
+    <string name="wrong_data_alert">IP format: a.b.c.d/m</string>
+</resources>
